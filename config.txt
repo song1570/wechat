@@ -5,7 +5,7 @@
 # 公众号appSecret
 "app_secret": "fb3a4f90b1405ca25c270d795460abf0",
 # 模板消息id
-"template_id": "gqHq-zA0qr05eqfMCtLQxfksMGrlQJp08QO36wGI9Es",
+"template_id": "B0gM8YEuFy3Kq-ytaBm77GDH8khv5KMOaS3Mv7szYic",
 # 接收公众号消息的微信号，如果有多个，需要在[]里用英文逗号间隔，例如["wx1", "wx2"]
 "user": ["o1tkE58YdS-o20gvSRRHHGrXjpH4"],
  
@@ -21,7 +21,7 @@
 # 在一起的日子，格式同上，暂不不支持农历
 "love_date": "2021-05-10",
 # 金句中文，如果设置了，则会显示这里的，如果为空，默认会读取金山的每日金句
-"note_ch": "",
+"note_ch": "春风十里，不如睡你",
 # 金句英文
-"note_en": "you are a der Darui XU"
+"note_en": "Again I'm falling for you, so you wrap your arms around mine."
 }
