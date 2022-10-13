@@ -13,15 +13,15 @@
 # 和风天气apikey
 "weather_key": "2260d4d2ff5749b298a86d4c12875e47",
 # 所在地区，可为省，城市，区，县，同时支持国外城市，例如伦敦
-"region": "朝阳市",
+"region": "大连市",
 # 生日1，修改名字为对应需要显示的名字，如果生日为农历，在最前面加上r即可
-"birthday1": {"name": "许大蕊", "birthday": "1998-11-15"},
+"birthday1": {"name": "许大蕊大宝子", "birthday": "1998-11-15"},
 # 生日2
 "birthday2": {"name": "我", "birthday": "1997-12-19"},
 # 在一起的日子，格式同上，暂不不支持农历
 "love_date": "2021-05-10",
 # 金句中文，如果设置了，则会显示这里的，如果为空，默认会读取金山的每日金句
-"note_ch": "春风十里，不如睡你",
+"note_ch": "",
 # 金句英文
-"note_en": "Again I'm falling for you, so you wrap your arms around mine."
+"note_en": ""
 }
